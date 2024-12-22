@@ -1,0 +1,5 @@
+{
+    "name": "Vue Build npm",
+    "description": "Build Vue frontend in a dist folder using npm.",
+   
+}
